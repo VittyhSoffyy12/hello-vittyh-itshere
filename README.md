@@ -22,8 +22,8 @@ const vitoria = {
 
 ## ✨ Meus Projetos
 
-- **[Serena Cat](https://github.com/VittyhSoffyy12/serena-cat)** – Bot de moderação e diversão pro Discord com um toque fofo e floral.  
-- **[Meu Site](https://serenacat.code.blog)** – Um cantinho todo florido diante meus projetos tão fechados.
+- **[Serena Cat](https://github.com/VittyhSoffyy12/serena-cat)** – Um cantinho todo florido diante meus projetos tão fechados.  
+- **[Meu Site](https://vittyh-sofffyy.carrd.co)** – Um cantinho aconchegante cheio de artes.
 ## 🐈‍⬛ Curiosidades
 
 - Sou uma furry e adoro personagens neste estilo.  
