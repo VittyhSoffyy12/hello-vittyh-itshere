@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #9b59b6;">🐈‍⬛ • Olá, eu sou a Vitória! Uma desenhista e programadora amante de felinos ’</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=C097FF&center=true&vCenter=true&multiline=true&width=435&lines=Programadora+J%C3%BAnior+apaixonada+por+tecnologia;gatos%2C+codificaçAo+e+arte+digital;Criadora+da+Serena+Cat+%E2%9C%A8"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=C097FF&center=true&vCenter=true&multiline=true&width=435&lines=Programadora+J%C3%BAnior+apaixonada+por+tecnologia;gatos%2C+codificação+e+arte+digital;Criadora+da+Serena+Cat+%E2%9C%A8"/>
 </p>
 
 ```js
